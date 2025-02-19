@@ -44,4 +44,4 @@ class Program {
         Console.WriteLine($"Percentual de sapos: {resultadoS.ToString("F2", CultureInfo.InvariantCulture)} %");
     }
 }
-//30 min
+//30 minutos
